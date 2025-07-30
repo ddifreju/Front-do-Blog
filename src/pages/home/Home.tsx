@@ -1,3 +1,4 @@
+import CardTemas from "../../components/temas/cardtemas/CardTemas"
 
 function Home() {
     return (
@@ -30,6 +31,7 @@ function Home() {
                     </div>
                 </div>
             </div>
+            <CardTemas/>
         </>
     )
 }
