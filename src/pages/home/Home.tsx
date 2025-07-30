@@ -31,7 +31,7 @@ function Home() {
                     </div>
                 </div>
             </div>
-            <CardTemas/>
+            CardTemas{ }
         </>
     )
 }
